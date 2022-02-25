@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: de6c1326e2a0b5c45a0600f144ed6010
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - particle: {fileID: 1000011797152326, guid: acf39d9f4addf294d93fa56fa373961b, type: 3}
+  - exprosionSound: {fileID: 8300000, guid: 28452a7f15d5a8c4d9899ac59c5cef41, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
